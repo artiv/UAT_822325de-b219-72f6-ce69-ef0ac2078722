@@ -51,22 +51,22 @@
 						"fieldKey": "4e2244e6-be5f-2fd9-67c2-708b814ee8a6",
 						"fieldValues": [
 							{
-								"public_id": "UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1",
-								"version": 1558677847,
-								"signature": "d36c990915e04b575b9dee8bbe1dc92d213f0d5f",
+								"public_id": "UAT_822325de-b219-72f6-ce69-ef0ac2078722/hi_sampleVideo_y99fj1_tx3H",
+								"version": 1558684529,
+								"signature": "04e288eedd066f849297199ee564da34457c2867",
 								"width": 1280,
 								"height": 720,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-05-24T06:04:07Z",
+								"created_at": "2019-05-24T07:55:29Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 1055736,
+								"bytes": 1055796,
 								"type": "upload",
-								"etag": "d55bddf8d62910879ed9f605522149a8",
+								"etag": "b7481eb1d6c683d2c646bdff4b18f36a",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm/video/upload/v1558677847/UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1558677847/UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1.mp4",
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1558684529/UAT_822325de-b219-72f6-ce69-ef0ac2078722/hi_sampleVideo_y99fj1_tx3H.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1558684529/UAT_822325de-b219-72f6-ce69-ef0ac2078722/hi_sampleVideo_y99fj1_tx3H.mp4",
 								"access_mode": "public",
 								"existing": false,
 								"audio": {
@@ -86,10 +86,10 @@
 								},
 								"is_audio": false,
 								"frame_rate": 25,
-								"bit_rate": 1589963,
+								"bit_rate": 1590054,
 								"duration": 5.312,
 								"rotation": 0,
-								"original_filename": "sampleVideo",
+								"original_filename": "hi_sampleVideo_y99fj1",
 								"path": "v1558677847/UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1558677847/UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1.jpg",
 								"overlays": [],
@@ -148,10 +148,12 @@
 									"font": "Noto Sans Devanagari"
 								},
 								"transformedURLs": [
-									"https://res.cloudinary.com/qblm/video/upload/v1558677847/UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1.mp4"
+									"https://res.cloudinary.com/qblm/video/upload/v1558677847/UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1558684529/UAT_822325de-b219-72f6-ce69-ef0ac2078722/hi_sampleVideo_y99fj1_tx3H.mp4"
 								],
 								"transformedPublicIds": [
-									"UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1"
+									"UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1",
+									"UAT_822325de-b219-72f6-ce69-ef0ac2078722/hi_sampleVideo_y99fj1_tx3H"
 								],
 								"embed": {
 									"width": 1280,
