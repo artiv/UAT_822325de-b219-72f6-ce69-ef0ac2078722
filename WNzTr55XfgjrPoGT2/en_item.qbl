@@ -97,7 +97,41 @@
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
-								"captions": {},
+								"captions": {
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nthing\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhappy I surf\n\n6\n00:00:08,900 --> 00:00:09,400\nthe web I",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4800,
+											"text": "I'm a cool"
+										},
+										{
+											"start": 4800,
+											"end": 5900,
+											"text": "guy that's that's my"
+										},
+										{
+											"start": 5900,
+											"end": 6300,
+											"text": "thing"
+										},
+										{
+											"start": 7400,
+											"end": 7800,
+											"text": "I'm"
+										},
+										{
+											"start": 7800,
+											"end": 8900,
+											"text": "happy I surf"
+										},
+										{
+											"start": 8900,
+											"end": 9400,
+											"text": "the web I"
+										}
+									]
+								},
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm/video/upload/v1558677847/UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1.mp4"
 								],
@@ -157,7 +191,41 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Audio?",
 						"fieldKey": "8b2fb9c9-2e95-f84a-e1eb-383ac9943dd4",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "4972405d-b781-e481-613c-80cd5a386ec4",
+								"captions": {
+									"captionString": "\n7\n00:00:09,400 --> 00:00:10,600\ntext LOL\n\n8\n00:00:10,600 --> 00:00:11,400\nlaugh out loud\n",
+									"parsed": [
+										{
+											"start": 9400,
+											"end": 10600,
+											"text": "text LOL"
+										},
+										{
+											"start": 10600,
+											"end": 11400,
+											"text": "laugh out loud"
+										}
+									]
+								},
+								"overlays": [],
+								"embed": {
+									"width": 100,
+									"height": 100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
