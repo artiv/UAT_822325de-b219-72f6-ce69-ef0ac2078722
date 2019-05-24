@@ -1,0 +1,355 @@
+{
+	"fileName": "hi_en_item.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "4b56e60b-6aa9-0246-a730-78ae7125e1d8",
+			"fileItemDate": "2019-05-24T07:53:49.463Z",
+			"fileItemCollections": [
+				"WNzTr55XfgjrPoGT2"
+			],
+			"fileItemCollectionsForTranslation": [
+				"WNzTr55XfgjrPoGT2"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "aq4ZMbSxmSSLxkALv",
+			"possibleLanguages": [
+				"mnDTnJkmaLrPH7ym5",
+				"zn7qJXuhM7u8mKBv9",
+				"aq4ZMbSxmSSLxkALv",
+				"AxXG8DMiN8ZSwsJPR",
+				"Dr4RNHKrjP7P5Ekm2"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "ebb242bb-1333-3a8e-1593-8b3cb5ab82a8",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsEditableCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsRequiredCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsMultipleCollections": [
+							"WNzTr55XfgjrPoGT2"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "4e2244e6-be5f-2fd9-67c2-708b814ee8a6",
+						"fieldValues": [
+							{
+								"public_id": "UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1",
+								"version": 1558677847,
+								"signature": "d36c990915e04b575b9dee8bbe1dc92d213f0d5f",
+								"width": 1280,
+								"height": 720,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2019-05-24T06:04:07Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 1055736,
+								"type": "upload",
+								"etag": "d55bddf8d62910879ed9f605522149a8",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1558677847/UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1558677847/UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "384828",
+									"frequency": 48000,
+									"channels": 6,
+									"channel_layout": "5.1"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 31,
+									"profile": "Main",
+									"bit_rate": "1205959",
+									"dar": "16:9"
+								},
+								"is_audio": false,
+								"frame_rate": 25,
+								"bit_rate": 1589963,
+								"duration": 5.312,
+								"rotation": 0,
+								"original_filename": "sampleVideo",
+								"path": "v1558677847/UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1558677847/UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nमैं एक शांत हूं\n\n2\n00:00:04,800 --> 00:00:05,900\nआदमी है कि मेरे\n\n3\n00:00:05,900 --> 00:00:06,300\nबात\n\n4\n00:00:07,400 --> 00:00:07,800\nमैं हूं\n\n5\n00:00:07,800 --> 00:00:08,900\nखुश मैं सर्फ\n\n6\n00:00:08,900 --> 00:00:09,400\nवेब मैं\n",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4800,
+											"text": "मैं एक शांत हूं"
+										},
+										{
+											"start": 4800,
+											"end": 5900,
+											"text": "आदमी है कि मेरे"
+										},
+										{
+											"start": 5900,
+											"end": 6300,
+											"text": "बात"
+										},
+										{
+											"start": 7400,
+											"end": 7800,
+											"text": "मैं हूं"
+										},
+										{
+											"start": 7800,
+											"end": 8900,
+											"text": "खुश मैं सर्फ"
+										},
+										{
+											"start": 8900,
+											"end": 9400,
+											"text": "वेब मैं"
+										}
+									],
+									"originalCaptionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nthing\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhappy I surf\n\n6\n00:00:08,900 --> 00:00:09,400\nthe web I",
+									"asset": {
+										"public_id": "UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1_hi_jYp3.srt",
+										"version": 1558684472,
+										"signature": "9988ba4c7974d79019b964166e6e62482bafe661",
+										"resource_type": "raw",
+										"created_at": "2019-05-24T07:54:32Z",
+										"tags": [],
+										"bytes": 360,
+										"type": "upload",
+										"etag": "348db03f01b359d3acc485700404f08f",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/qblm/raw/upload/v1558684472/UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1_hi_jYp3.srt",
+										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1558684472/UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1_hi_jYp3.srt",
+										"access_mode": "public"
+									},
+									"font": "Noto Sans Devanagari"
+								},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm/video/upload/v1558677847/UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1.mp4"
+								],
+								"transformedPublicIds": [
+									"UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1"
+								],
+								"embed": {
+									"width": 1280,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "samplevideo"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "210e4ca4-019c-c22d-cc14-1609f28d80f6",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsEditableCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsRequiredCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsMultipleCollections": [
+							"WNzTr55XfgjrPoGT2"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio?",
+						"fieldKey": "8b2fb9c9-2e95-f84a-e1eb-383ac9943dd4",
+						"fieldValues": [
+							{
+								"public_id": "4972405d-b781-e481-613c-80cd5a386ec4",
+								"captions": {
+									"captionString": "1\n00:00:09,400 --> 00:00:10,600\nपाठ योग्य\n\n2\n00:00:10,600 --> 00:00:11,400\nज़ोर की हँसी\n",
+									"parsed": [
+										{
+											"start": 9400,
+											"end": 10600,
+											"text": "पाठ योग्य"
+										},
+										{
+											"start": 10600,
+											"end": 11400,
+											"text": "ज़ोर की हँसी"
+										}
+									],
+									"originalCaptionString": "\n7\n00:00:09,400 --> 00:00:10,600\ntext LOL\n\n8\n00:00:10,600 --> 00:00:11,400\nlaugh out loud\n",
+									"asset": {
+										"public_id": "4972405d-b781-e481-613c-80cd5a386ec4_hi_zB3P.srt",
+										"version": 1558684482,
+										"signature": "34082e67cc860b8e39b5f73ae9130a5b1b7bfd1a",
+										"resource_type": "raw",
+										"created_at": "2019-05-24T07:54:42Z",
+										"tags": [],
+										"bytes": 124,
+										"type": "upload",
+										"etag": "a52faf145a550578c3538b28e72585f2",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/qblm/raw/upload/v1558684482/4972405d-b781-e481-613c-80cd5a386ec4_hi_zB3P.srt",
+										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1558684482/4972405d-b781-e481-613c-80cd5a386ec4_hi_zB3P.srt",
+										"access_mode": "public"
+									},
+									"font": "Noto Sans Devanagari"
+								},
+								"overlays": [],
+								"embed": {
+									"width": 100,
+									"height": 100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "c4d1cbba-e62f-79f6-8761-53e4cc7351e6",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsEditableCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsRequiredCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsMultipleCollections": [
+							"WNzTr55XfgjrPoGT2"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "83eea8a9-1357-ddf4-9a0b-3dda9d750433",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "12560888-5865-9bf5-9f36-b0d0ba5d3c1b",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsEditableCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsRequiredCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsMultipleCollections": [
+							"WNzTr55XfgjrPoGT2"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text?",
+						"fieldKey": "e9d2a060-b4db-21ab-0a14-062c5b66bb10",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
