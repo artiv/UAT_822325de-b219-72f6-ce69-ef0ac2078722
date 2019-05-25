@@ -1,0 +1,168 @@
+{
+	"fileName": "ur_myTemplate.q6a",
+	"fileTemplate": {
+		"fileTemplateGeneral": {
+			"fileTemplateGuid": "d7a7fed2-29f1-b2a1-96a8-30dd655fab0e",
+			"fileTemplateDate": "2019-05-25T07:36:37.184Z",
+			"fileTemplateCollections": [
+				"WNzTr55XfgjrPoGT2"
+			],
+			"fileTemplateCollectionsForTranslation": [
+				"WNzTr55XfgjrPoGT2"
+			]
+		},
+		"fileTemplateLanguage": {
+			"primaryLanguage": "Dr4RNHKrjP7P5Ekm2",
+			"possibleLanguages": [
+				"mnDTnJkmaLrPH7ym5",
+				"zn7qJXuhM7u8mKBv9",
+				"aq4ZMbSxmSSLxkALv",
+				"AxXG8DMiN8ZSwsJPR"
+			]
+		},
+		"fileTemplateStructure": {
+			"fileTemplateGenerics": [],
+			"fileTemplateFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "10a28eaf-f1ab-d73e-8ae8-f8c8fbf0fd93",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsEditableCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "ویڈیو ریکارڈنگ اپ لوڈ کریں:  ?",
+						"fieldKey": "ویڈیو ریکارڈنگ",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "b5660bdf-a6de-84d8-6907-dfe445d25f9a",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsEditableCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "آڈیو ریکارڈنگ اپ لوڈ کریں:  ?",
+						"fieldKey": "آڈیو ریکارڈنگ",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "7dfbbca1-96be-aadb-b114-41d1095b4b87",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsEditableCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "تصویر اپ لوڈ کریں:  ?",
+						"fieldKey": "تصویر",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "c5dd6fde-72ba-47fa-618a-bb3ec888b313",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsEditableCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "ٹیکسٹ مواد اپ لوڈ کریں:  ?",
+						"fieldKey": "ٹیکسٹ مواد",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileTemplatePublish": {
+			"fileTemplateTypes": []
+		}
+	}
+}
