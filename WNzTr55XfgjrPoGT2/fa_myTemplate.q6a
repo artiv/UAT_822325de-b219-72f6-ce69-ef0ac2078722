@@ -1,0 +1,168 @@
+{
+	"fileName": "fa_myTemplate.q6a",
+	"fileTemplate": {
+		"fileTemplateGeneral": {
+			"fileTemplateGuid": "8b7a884d-9916-7035-0d53-2e889e05045e",
+			"fileTemplateDate": "2019-05-27T07:23:55.515Z",
+			"fileTemplateCollections": [
+				"WNzTr55XfgjrPoGT2"
+			],
+			"fileTemplateCollectionsForTranslation": [
+				"WNzTr55XfgjrPoGT2"
+			]
+		},
+		"fileTemplateLanguage": {
+			"primaryLanguage": "xdE7YpQbeH4jjRiix",
+			"possibleLanguages": [
+				"mnDTnJkmaLrPH7ym5",
+				"AxXG8DMiN8ZSwsJPR",
+				"hBccHzerTGebwimpt",
+				"ziPuRzHJDjjCqeddn"
+			]
+		},
+		"fileTemplateStructure": {
+			"fileTemplateGenerics": [],
+			"fileTemplateFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "bc8e8a45-8769-d9d1-511e-7fec419a7db7",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsEditableCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "لطفا ویدئو را آپلود کنید",
+						"fieldKey": "ضبط ویدئو",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "b7756b91-3e4c-d606-8244-442c5c4c2286",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsEditableCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "لطفا صوتی را آپلود کنید",
+						"fieldKey": "ضبط صدا",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "561f09df-b662-22d6-199d-0fd7e9b8953c",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsEditableCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "لطفا تصویر را آپلود کنید",
+						"fieldKey": "تصویر",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "9ebf86c3-0143-e275-a3a7-0ad27ff03a71",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsEditableCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "لطفا کادر متن را آپلود کنید",
+						"fieldKey": "محتوای متن",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileTemplatePublish": {
+			"fileTemplateTypes": []
+		}
+	}
+}
