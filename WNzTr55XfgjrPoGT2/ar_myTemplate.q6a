@@ -1,0 +1,168 @@
+{
+	"fileName": "ar_myTemplate.q6a",
+	"fileTemplate": {
+		"fileTemplateGeneral": {
+			"fileTemplateGuid": "b1483609-2bcf-8ce3-b81d-a4b706782a5b",
+			"fileTemplateDate": "2019-05-27T07:24:02.322Z",
+			"fileTemplateCollections": [
+				"WNzTr55XfgjrPoGT2"
+			],
+			"fileTemplateCollectionsForTranslation": [
+				"WNzTr55XfgjrPoGT2"
+			]
+		},
+		"fileTemplateLanguage": {
+			"primaryLanguage": "hBccHzerTGebwimpt",
+			"possibleLanguages": [
+				"mnDTnJkmaLrPH7ym5",
+				"AxXG8DMiN8ZSwsJPR",
+				"xdE7YpQbeH4jjRiix",
+				"ziPuRzHJDjjCqeddn"
+			]
+		},
+		"fileTemplateStructure": {
+			"fileTemplateGenerics": [],
+			"fileTemplateFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "3f8c42d8-b723-0b57-05de-19d8ccd72c3a",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsEditableCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "يرجى تحميل الفيديو",
+						"fieldKey": "تسجيل الفيديو",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "7e9a2ada-4063-ee09-c261-b41fec063ad0",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsEditableCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "يرجى تحميل الصوت",
+						"fieldKey": "تسجيل الصوت",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "9a2fe79c-9fac-0c00-09da-cced2c49aea3",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsEditableCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "يرجى تحميل الصورة",
+						"fieldKey": "صورة",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "1e3153a1-484f-8c96-4598-4aa42a6e7fc7",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsEditableCollections": [
+							"WNzTr55XfgjrPoGT2"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "يرجى تحميل مربع النص",
+						"fieldKey": "محتوى النص",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileTemplatePublish": {
+			"fileTemplateTypes": []
+		}
+	}
+}
