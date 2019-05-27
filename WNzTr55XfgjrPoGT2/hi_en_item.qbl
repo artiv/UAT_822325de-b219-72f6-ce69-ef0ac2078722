@@ -145,7 +145,8 @@
 										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1558684472/UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1_hi_jYp3.srt",
 										"access_mode": "public"
 									},
-									"font": "Noto Sans Devanagari"
+									"font": "Noto Sans Devanagari",
+									"isAttached": true
 								},
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm/video/upload/v1558677847/UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1.mp4",
