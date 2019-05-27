@@ -130,7 +130,18 @@
 											"end": 9400,
 											"text": "the web I"
 										}
-									]
+									],
+									"font": "Noto Sans",
+									"size": 18,
+									"color": {
+										"rgb": {
+											"r": 255,
+											"g": 255,
+											"b": 255,
+											"a": 1
+										}
+									},
+									"isAttached": true
 								},
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm/video/upload/v1558677847/UAT_822325de-b219-72f6-ce69-ef0ac2078722/sampleVideo_y99fj1.mp4"
