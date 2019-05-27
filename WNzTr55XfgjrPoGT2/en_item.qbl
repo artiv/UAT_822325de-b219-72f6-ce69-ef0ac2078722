@@ -534,6 +534,73 @@
 									},
 									"matchText": false
 								}
+							},
+							{
+								"public_id": "UAT_822325de-b219-72f6-ce69-ef0ac2078722/modernFamily_cbjv8p",
+								"version": 1558987772,
+								"signature": "5fbd19d459faacf6faf467d10d612bbefb8f8e60",
+								"width": 480,
+								"height": 360,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2019-05-27T20:09:32Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 1398635,
+								"type": "upload",
+								"etag": "323bb8e393e9654e4c88af020b0ff00c",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1558987772/UAT_822325de-b219-72f6-ce69-ef0ac2078722/modernFamily_cbjv8p.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1558987772/UAT_822325de-b219-72f6-ce69-ef0ac2078722/modernFamily_cbjv8p.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "95999",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 21,
+									"profile": "Constrained Baseline",
+									"bit_rate": "273006",
+									"dar": "4:3"
+								},
+								"is_audio": false,
+								"frame_rate": 24,
+								"bit_rate": 371257,
+								"duration": 30.138333,
+								"rotation": 0,
+								"original_filename": "modernFamily",
+								"path": "v1558987772/UAT_822325de-b219-72f6-ce69-ef0ac2078722/modernFamily_cbjv8p.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1558987772/UAT_822325de-b219-72f6-ce69-ef0ac2078722/modernFamily_cbjv8p.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm/video/upload/v1558987772/UAT_822325de-b219-72f6-ce69-ef0ac2078722/modernFamily_cbjv8p.mp4"
+								],
+								"transformedPublicIds": [
+									"UAT_822325de-b219-72f6-ce69-ef0ac2078722/modernFamily_cbjv8p"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfamily"
+								}
 							}
 						],
 						"fieldChildren": []
