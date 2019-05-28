@@ -151,8 +151,7 @@
 										"y": "0",
 										"width": "default",
 										"height": "default",
-										"hasChanged": true,
-										"isAttached": true,
+										"isAttached": false,
 										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 4.8,
@@ -189,10 +188,7 @@
 											"BOLD": false,
 											"ITALIC": false,
 											"UNDERLINE": false,
-											"STRIKETHROUGH": false,
-											"CODE": false,
-											"SUPERSCRIPT": false,
-											"SUBSCRIPT": false
+											"STRIKETHROUGH": false
 										},
 										"editorOthers": {
 											"language": "en",
