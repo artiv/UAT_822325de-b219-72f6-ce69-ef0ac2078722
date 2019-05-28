@@ -49,27 +49,27 @@
 						"fieldKey": "Video",
 						"fieldValues": [
 							{
-								"public_id": "UAT_822325de-b219-72f6-ce69-ef0ac2078722/your-money_o2xsk0",
-								"version": 1559028407,
-								"signature": "49bf5b129464171153efc0b5268bc2a7288fe8ca",
+								"public_id": "UAT_822325de-b219-72f6-ce69-ef0ac2078722/en_your-money_o2xsk0_8AfL",
+								"version": 1559029488,
+								"signature": "8298a7a53d83ef0170e1c8a025505ec8e90f1e4d",
 								"width": 576,
 								"height": 720,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-05-28T07:26:47Z",
+								"created_at": "2019-05-28T07:44:48Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 5154832,
+								"bytes": 3064044,
 								"type": "upload",
-								"etag": "36b6d561da9d79a6055a32cec14217b9",
+								"etag": "ba0b55872872b8f10c216d2d3732b865",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm/video/upload/v1559028407/UAT_822325de-b219-72f6-ce69-ef0ac2078722/your-money_o2xsk0.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1559028407/UAT_822325de-b219-72f6-ce69-ef0ac2078722/your-money_o2xsk0.mp4",
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1559029488/UAT_822325de-b219-72f6-ce69-ef0ac2078722/en_your-money_o2xsk0_8AfL.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1559029488/UAT_822325de-b219-72f6-ce69-ef0ac2078722/en_your-money_o2xsk0_8AfL.mp4",
 								"access_mode": "public",
 								"existing": false,
 								"audio": {
 									"codec": "aac",
-									"bit_rate": "128026",
+									"bit_rate": "128028",
 									"frequency": 48000,
 									"channels": 2,
 									"channel_layout": "stereo"
@@ -77,17 +77,17 @@
 								"video": {
 									"pix_format": "yuv420p",
 									"codec": "h264",
-									"level": 30,
-									"profile": "Constrained Baseline",
-									"bit_rate": "1815605",
+									"level": 31,
+									"profile": "High",
+									"bit_rate": "1022236",
 									"dar": "4:5"
 								},
 								"is_audio": false,
 								"frame_rate": 30,
-								"bit_rate": 1946688,
+								"bit_rate": 1157116,
 								"duration": 21.141,
 								"rotation": 0,
-								"original_filename": "your-money",
+								"original_filename": "en_your-money_o2xsk0",
 								"path": "v1559028407/UAT_822325de-b219-72f6-ce69-ef0ac2078722/your-money_o2xsk0.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1559028407/UAT_822325de-b219-72f6-ce69-ef0ac2078722/your-money_o2xsk0.jpg",
 								"overlays": [
@@ -1397,10 +1397,12 @@
 									"isAttached": false
 								},
 								"transformedURLs": [
-									"https://res.cloudinary.com/qblm/video/upload/v1559028407/UAT_822325de-b219-72f6-ce69-ef0ac2078722/your-money_o2xsk0.mp4"
+									"https://res.cloudinary.com/qblm/video/upload/v1559028407/UAT_822325de-b219-72f6-ce69-ef0ac2078722/your-money_o2xsk0.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1559029488/UAT_822325de-b219-72f6-ce69-ef0ac2078722/en_your-money_o2xsk0_8AfL.mp4"
 								],
 								"transformedPublicIds": [
-									"UAT_822325de-b219-72f6-ce69-ef0ac2078722/your-money_o2xsk0"
+									"UAT_822325de-b219-72f6-ce69-ef0ac2078722/your-money_o2xsk0",
+									"UAT_822325de-b219-72f6-ce69-ef0ac2078722/en_your-money_o2xsk0_8AfL"
 								],
 								"embed": {
 									"width": 576,
