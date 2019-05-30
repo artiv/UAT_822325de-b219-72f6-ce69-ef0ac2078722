@@ -451,7 +451,8 @@
 										"hex": "#00ff00"
 									},
 									"matchText": false
-								}
+								},
+								"isMuted": true
 							}
 						],
 						"fieldChildren": []
@@ -487,7 +488,83 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload:  Audio? ",
 						"fieldKey": "Audio",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "UAT_822325de-b219-72f6-ce69-ef0ac2078722/pity859bdstcymuqljnz",
+								"captions": {
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n3\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n2\n00:00:05,900 --> 00:00:06,300\nFang\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhere 5 i surf\n",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4800,
+											"text": "I'm a cool"
+										},
+										{
+											"start": 4800,
+											"end": 5900,
+											"text": "guy that's that's my"
+										},
+										{
+											"start": 5900,
+											"end": 6300,
+											"text": "Fang"
+										},
+										{
+											"start": 7400,
+											"end": 7800,
+											"text": "I'm"
+										},
+										{
+											"start": 7800,
+											"end": 8900,
+											"text": "here 5 i surf"
+										}
+									]
+								},
+								"overlays": [],
+								"is_audio": true,
+								"embed": {
+									"width": 100,
+									"height": 100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								},
+								"version": 1559196328,
+								"signature": "0a295b838a708a6ce0c512e478c1e4b70d7a389e",
+								"width": 0,
+								"height": 0,
+								"format": "mp3",
+								"resource_type": "video",
+								"created_at": "2019-05-30T06:05:28Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 17280,
+								"type": "upload",
+								"etag": "16fa872dc3986c972c7d0526ff473d5a",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1559196328/UAT_822325de-b219-72f6-ce69-ef0ac2078722/pity859bdstcymuqljnz.mp3",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1559196328/UAT_822325de-b219-72f6-ce69-ef0ac2078722/pity859bdstcymuqljnz.mp3",
+								"access_mode": "public",
+								"audio": {
+									"codec": "mp3",
+									"bit_rate": "32000",
+									"frequency": 24000,
+									"channels": 1,
+									"channel_layout": "mono"
+								},
+								"video": {},
+								"bit_rate": 32000,
+								"duration": 4.32
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
