@@ -373,7 +373,7 @@
 										"public_id": "UAT_822325de-b219-72f6-ce69-ef0ac2078722/pity859bdstcymuqljnz",
 										"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1559196328/UAT_822325de-b219-72f6-ce69-ef0ac2078722/pity859bdstcymuqljnz.mp3",
 										"isAttached": true,
-										"start_offset": "2",
+										"start_offset": "3",
 										"end_offset": "10"
 									}
 								],
@@ -460,7 +460,7 @@
 									},
 									"matchText": false
 								},
-								"isMuted": true
+								"isMuted": false
 							}
 						],
 						"fieldChildren": []
