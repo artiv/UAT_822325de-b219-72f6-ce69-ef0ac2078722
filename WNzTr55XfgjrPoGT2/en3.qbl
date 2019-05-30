@@ -368,7 +368,15 @@
 									}
 								],
 								"videoOverlays": [],
-								"audioOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "UAT_822325de-b219-72f6-ce69-ef0ac2078722/pity859bdstcymuqljnz",
+										"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1559196328/UAT_822325de-b219-72f6-ce69-ef0ac2078722/pity859bdstcymuqljnz.mp3",
+										"isAttached": true,
+										"start_offset": "2",
+										"end_offset": "10"
+									}
+								],
 								"captions": {
 									"font": "Noto Sans",
 									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nFang\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhere 5 i surf\n",
